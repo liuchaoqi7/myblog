@@ -1,0 +1,32 @@
+{
+	"ret":true,
+	"data":{
+		"userList":[
+            { 
+            	"id":"001",
+            	"userName":"小明",
+            	"password":"ming"
+            },
+            { 
+            	"id":"002",
+            	"userName":"小博",
+            	"password":"bo"
+            },
+            { 
+            	"id":"003",
+            	"userName":"小红",
+            	"password":"hong"
+            },
+            { 
+            	"id":"004",
+            	"userName":"小绿",
+            	"password":"lv"
+            },
+            { 
+            	"id":"005",
+            	"userName":"小蓝",
+            	"password":"lan"
+            }
+		]
+	}
+}
